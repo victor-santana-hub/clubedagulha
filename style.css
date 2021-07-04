@@ -232,7 +232,7 @@ nav.show .menu {
   opacity: 1;
   visibility: visible;
 
-  background-image: url(/assets/pictures/fundo.png);
+  background-image: url(assets/pictures/fundo.png);
   background-size: 68vw;
 
   height: 100vh;
@@ -282,7 +282,7 @@ nav.show div.icon-close {
 /*=============================- HOME -=======================*/
 #home {
   overflow: hidden;
-  background-image: url(/assets/pictures/fundo.png);
+  background-image: url(assets/pictures/fundo.png);
   background-size: 45vw;
 }
 
@@ -333,7 +333,7 @@ nav.show div.icon-close {
 
 #about {
   background: #fff6f5;
-  background-image: url(/assets/pictures/fundo.png);
+  background-image: url(assets/pictures/fundo.png);
   background-size: 45vw;
 }
 
@@ -387,7 +387,7 @@ nav.show div.icon-close {
 /*==============================- SERVICES  -======================*/
 
 #services {
-  background-image: url(/assets/pictures/fundo.png);
+  background-image: url(assets/pictures/fundo.png);
   background-size: 45vw;
 }
 
@@ -425,7 +425,7 @@ nav.show div.icon-close {
 
 #testimonials {
   background: #fff6f5;
-  background-image: url(/assets/pictures/fundo.png);
+  background-image: url(assets/pictures/fundo.png);
   background-size: 45vw;
 }
 
@@ -490,7 +490,7 @@ nav.show div.icon-close {
 /*==============================- CONTACTS  -======================*/
 
 #contact {
-  background-image: url(/assets/pictures/fundo.png);
+  background-image: url(assets/pictures/fundo.png);
   background-size: 45vw;
 }
 
